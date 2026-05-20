@@ -18,3 +18,4 @@ Today, technicians usually diagnose verbally and type notes by hand. That slows 
 - **Live distributor pricing:** quotes reflect real local stock and pricing.
 - **Outcome learning loop:** recommendations improve from real acceptance outcomes over time.
 - **Compounding data advantage:** every field photo and result strengthens the model.
+ 
